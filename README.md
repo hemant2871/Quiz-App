@@ -50,10 +50,10 @@ cd Quiz-App
 4. Questions and answers are hardcoded or loaded from a file (if implemented).
 
 ## Screenshot
-![one]()
-![two]()
-![three]()
-![four]()
+![one](q1.png)
+![two](q2.png)
+![three](q3.png)
+![four](q4.png)
 
 ### 📬 Contact
 Have any questions or want to connect? Reach me here:
